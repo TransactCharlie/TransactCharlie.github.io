@@ -1,2 +1,4 @@
 theme: jekyll-theme-architect
-title: Charlie Gildawie's Pages
+title: Charlie Gildawie's Page
+plugins:
+  - jekyll-sitemap
