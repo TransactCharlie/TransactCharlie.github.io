@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+I'm an ageing software developer trying to keep up with the young uns. I've spent my career in (mostly) successfull startups and generally been super luck to be in the right place at the right time.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[charlie.gildawie@gmail.com](mailto:charlie.gildawie@gmail.com)
