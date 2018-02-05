@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Bootstrapping (The Computer)
-date: 2018-02-05 16:53:01
 series: Bootstrapping the Engineer
 ---
 
