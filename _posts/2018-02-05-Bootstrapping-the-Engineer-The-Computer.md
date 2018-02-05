@@ -1,9 +1,13 @@
 ---
 layout: post
 title: Bootstrapping (The Computer)
+date: 2018-02-05 16:53:01
+series: Bootstrapping the Engineer
 ---
 
 Professional developers usually have an absurdly powerful computer and peripheral setup. In the office you'll see multi monitor setups galore; at conference you'll see multitudes of expensive laptops. Some developers obsess about exactly the right keyboard - after all things like the [DAS keyboard](https://www.daskeyboard.com/daskeyboard-4-ultimate/) exist because people actually buy them.
+
+{% include series.html %}
 
 You might think that to get started you need something similar - *nothing could be further from the truth*. To get started you need pretty much only whatever computer you have. Any modern computer is going to be overkill for your first steps into software engineering. That being the case there are some definite nice to haves.
 
@@ -40,7 +44,7 @@ Also -- ***everything*** you make is going to be backed up to the cloud (for fre
 Most modern processors are going to be able to handle what we throw at them seamlessly. Stay away from the ultra low power Celerons and target something like a core I3 / I5. You won't need a hugely powerful CPU and whatever integrated Graphics core that comes with your laptop **will** be fine.
 
 ### Memory
-As much as you can get that doesn't cost more. 4GB is the absolute minimum and 8GB is probably a sensible default. 
+As much as you can get that doesn't cost more. 4GB is the absolute minimum and 8GB is probably a sensible default.
 
 ### Operating System
 It's going to come with Windows. Buy a Macbook (pro) if you like and have the budget (it's what I'm using and probably 70%+ of professionals at all the hip conferences). But they aren't cheap. Realistically the laptop you buy for <£500 is going to come with a copy of windows and that's fine.
