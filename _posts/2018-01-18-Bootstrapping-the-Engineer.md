@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Bootstrapping The Engineer
-series: Bootstrapping the Engineer
+series: "Bootstrapping the Engineer"
 ---
 
 {% include series.html %}
