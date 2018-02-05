@@ -1,6 +1,6 @@
 ---
 layout: post
-title: BTE 1: The Computer
+title: Bootstrapping - The Computer
 ---
 
 Professional developers usually have an absurdly powerful computer and peripheral setup. In the office you'll see multi monitor setups galore; at conference you'll see multitudes of expensive laptops. Some developers obsess about exactly the right keyboard - after all things like the [DAS keyboard](https://www.daskeyboard.com/daskeyboard-4-ultimate/) exist because people actually buy them.
