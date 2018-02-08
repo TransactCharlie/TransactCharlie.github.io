@@ -52,7 +52,7 @@ For the adventurous you *may* want to think about running linux on it at some po
 
 2018-02-07: Currys / PC World / Lenovo seem to be selling off some stock at the moment. this is a great time to pick up a really decent laptop!
 
-[£329: Lenovo IdeaPad 320s 14'' Laptop] (https://www.currys.co.uk/gbuk/computing/laptops/laptops/lenovo-ideapad-320s-14ikb-14-laptop-grey-10169170-pdt.html)
+[£329: Lenovo IdeaPad 320s 14'' Laptop](https://www.currys.co.uk/gbuk/computing/laptops/laptops/lenovo-ideapad-320s-14ikb-14-laptop-grey-10169170-pdt.html)
 * 128GB SSD Storage
 * Core i3-7100U Processor (2 cores, 4 threads) - fine
 * 4GB memory
