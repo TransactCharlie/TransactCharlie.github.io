@@ -48,17 +48,19 @@ It's going to come with Windows. Buy a Macbook (pro) if you like and have the bu
 
 For the adventurous you *may* want to think about running linux on it at some point. Don't let that get in the way of finding out if you want to be an engineer though. You can do everything you need to do in windows.
 
-## Example
- This is the computer I recommended for my friend. I was **astonished** at how good it is for the price (link goes to PC World as an example price)
+## Examples
 
- [Lenovo 320s 14''](https://www.pcworld.co.uk/gbuk/computing/laptops/laptops/lenovo-ideapad-320s-14ikb-14-laptop-grey-10169401-pdt.html) Configured with:
-* 128GB (ssd) storage
-* 8GB memory
-* 14'' 1920x1080 display
-* Full sized keyboard
+2018-02-07: Currys / PC World / Lenovo seem to be selling off some stock at the moment. this is a great time to pick up a really decent laptop!
+
+[£329: Lenovo IdeaPad 320s 14'' Laptop] (https://www.currys.co.uk/gbuk/computing/laptops/laptops/lenovo-ideapad-320s-14ikb-14-laptop-grey-10169170-pdt.html)
+* 128GB SSD Storage
+* Core i3-7100U Processor (2 cores, 4 threads) - fine
+* 4GB memory
+* 14'' 1920 x 1080 display - Great
+* Full Sized keyboard
 * Windows 10
 
-Price as of 2018-02-05 is £479.
+This thing is a complete steal at this price! The only real weakness is the memory and it's upgradable later!
 
 ## series
 
